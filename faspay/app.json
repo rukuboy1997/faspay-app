@@ -29,7 +29,7 @@
 	"bundler": "metro"
     },
     "experiments": {
-      "baseUrl": "/expo-gh-pages"
+      "baseUrl": "/faspay-app"
     },  
     "plugins": [
       "expo-router"
